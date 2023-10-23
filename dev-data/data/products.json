@@ -1,0 +1,111 @@
+[
+    {
+        "name": "King Charles III Britannia One Ounce Gold Coin 2023",
+        "price": 1950,
+        "description": "The 2023 Charles III one ounce gold Britannia coin, sourced directly from The Royal Mint. This coin contains 1 troy ounce of pure, 999.9 fine gold. It is the first Britannia coin with the new portrait of His Majesty, King Charles III by Martin Jennings.",
+        "manufacturer": "The Royal Mint",
+        "alloy": "Gold-Au",
+        "weight": 31.11,
+        "fineness": 9999,
+        "dimensions": "32.69mm diameter",
+        "stock": "in stock",
+        "nextStock": ["2023-01-05", "2023-04-12", "2023-10-06" , "2023-12-01"],
+        "images": [
+            "Gold-1-1.jpg",
+            "Gold-1-2.jpg"
+        ]
+    },
+    {
+        "name": "King Charles III Britannia One Ounce Silver Coin 2023",
+        "price": 35,
+        "description": "Due to the accession of His Majesty King Charles III The Royal Mint have launched a special second Britannia coin in 2023 featuring the effigy of the new King by Martin Jennings. These 2023 King Charles III Britannia silver coins contains 31.1 grams of fine silver at a purity of 999 parts per thousand. The 2023 Charles III 1oz silver Britannia coin is a legal tender coin in the UK, with a value of £2 and is therefore exempt from Capital Gains Tax.",
+        "manufacturer": "The Royal Mint",
+        "alloy": "Silver-Ag",
+        "weight": 31.21,
+        "fineness": 999.9,
+        "dimensions": "38.61mm diameter",
+        "stock": "in stock",
+        "nextStock": ["2023-02-06", "2023-03-12", "2023-09-06" , "2023-11-01"],
+        "images": [
+            "Silver-1-1.jpg",
+            "Silver-1-2.jpg"
+        ]
+    },
+    {
+        "name": "Mistery box gold product",
+        "price": 1000,
+        "description": "Mistery box with all type of gold , different carats of gold",
+        "manufacturer": "All manufacturer and unknown manufacturers",
+        "alloy": "Gold-Au", 
+        "weight": "Different types of weights",
+        "fineness": "Different types of fineness",
+        "dimensions": "Different type of dimensions",
+        "stock": 10 ,
+        "nextStock": ["2023-01-07", "2023-04-22", "2023-11-23" , "2023-10-12"],
+        "images": []
+    },
+    {
+        "name": "1 OUNCE GOLD VIENNA PHILHARMONIC",
+        "price": 1900,
+        "description": "The Vienna Philharmonic coin in one-ounce gold (Troy ounce): The king of investment coins and the best-selling size. First introduced in 1989 along with the 1/4 ounce version, it contains a whole ounce of gold (31.1 grams). The Troy ounce is the precious metal trade’s unit of weight and the classic weight for bullion coins. It has a face value of 100 Euro.",
+        "manufacturer": "Münze Österreich",
+        "alloy": "Gold-Au", 
+        "weight": 31.10,
+        "fineness": 999.9,
+        "dimensions": "27.00mm diameter",
+        "stock": "in stock",
+        "nextStock": ["2023-01-11", "2023-04-12", "2023-07-22" , "2023-12-01"],
+        "images": [
+            "Gold-2-1.png",
+            "Gold-2-2.png"
+        ]
+    },
+    {
+        "name": "1 OUNCE SILVER VIENNA PHILHARMONIC",
+        "price": 33,
+        "description": "When the Austrian Mint first issued Vienna Philharmonic coins in silver in February 2008, it was the first time that a European silver bullion coin had been brought on to the market featuring silver of 99.9 per cent purity. The market had long been waiting for a product of these characteristics and within a month of the date of issue, the millionth coin was struck. By the end of 2008, eight million Vienna Philharmonic coins in silver had been sold. Since sales began on 1 February 2008, this silver coin has been struck exclusively in the 1 ounce version and in a quantity that reflects market demand.",
+        "manufacturer": "Münze Österreich",
+        "alloy": "Silver-Ag", 
+        "weight": 31.10,
+        "fineness": 999.9,
+        "dimensions": "37.00mm diameter",
+        "stock": "in stock",
+        "nextStock": ["2023-01-07", "2023-02-12", "2023-05-06" , "2023-10-01" , "2023-12-01"],
+        "images": [
+            "Silver-2-1.png",
+            "Silver-2-2.png"
+        ]
+    },
+    {
+        "name": "10 oz Magnificent Maple Leaf Silver Coin",
+        "price": 332,
+        "description": "The 10 oz Silver Magnificent Maple Leaves Coin from the Royal Canadian Mint certainly lives up to its name. A magnificent 10 troy ounces of .9999 silver in each coin and a superbly detailed design featuring the leaves of the sugar maple, a symbol of Canada that’s recognised all over the world.",
+        "manufacturer": "Royal Canadian Mint",
+        "alloy": "Silver-Ag", 
+        "weight": 311.035,
+        "fineness": 999.9,
+        "dimensions": "76.25mm diameter",
+        "stock": "in stock",
+        "nextStock": ["2023-01-22", "2023-03-12", "2023-11-06" , "2023-12-01"],
+        "images": [
+            "Silver-3-1.png",
+            "Silver-3-2.png"
+        ]
+    },
+    {
+        "name": "Brasher Doubloon EB on Wing (1787)",
+        "price": 2415000,
+        "description": "This gold coin produced by the goldsmith Ephraim Brasher sports an eagle accompanied by the initials of the silversmith printed on its wings. There is a similar piece with the same characteristics, whose initials are printed on the chest of the bird, and not on its wings.",
+        "manufacturer": "goldsmith Ephraim Brasher",
+        "alloy": "Gold-Au(90%) , Silver-AG(6%)", 
+        "weight": 26.6,
+        "fineness": 91.6916,
+        "dimensions": "30mm diameter",
+        "stock": "1 pcs",
+        "nextStock": [],
+        "images": [
+            "Rare-Product 1-1.jpg"
+        ],
+        "rareProduct": true
+    }
+]
