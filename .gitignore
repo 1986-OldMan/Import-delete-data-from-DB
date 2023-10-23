@@ -1,6 +1,7 @@
 # ignore the node modules folder 
 node_modules/
 config.env
+.vscode
 
 
 # Editor directories and files
